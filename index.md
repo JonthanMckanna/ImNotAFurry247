@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<span style="color:red"> 
 
-You can use the [editor on GitHub](https://github.com/JonthanMckanna/ImNotAFurry247/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/90731782/159119479-3985c6c3-5d85-4771-8168-d09ed9fff9f8.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Welcome to ImNotAFurry247's website!
+This is my website!
 
-### Markdown
+[My sratch profile](https://scratch.mit.edu/users/ImNotAFurry247/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Made by [@Jonathan_Mckanna](https://scratch.mit.edu/users/Jonathan_Mckanna/)
 
-```markdown
-Syntax highlighted code block
+### About me
+Name: Chloe
+Age: 12
+Nationality: White-Canadian Part Irish, Scottish and Dutch
+Language:English and a small amount of Spanish
+Gender: Non-Binary
+Pronouns; They/Them
 
-# Header 1
-## Header 2
-### Header 3
+### What I'm working on
+An interactive house.
 
-- Bulleted
-- List
+### Note:
+I like purple, Tacos, Pizza, art, and video games!!
 
-1. Numbered
-2. List
+### Featured Project
 
-**Bold** and _Italic_ and `Code` text
+<img src="https://cdn2.scratch.mit.edu/get_image/project/651721251_282x210.png" alt="Featured project"/>!
 
-[Link](url) and ![Image](src)
-```
+[-About Me-](https://scratch.mit.edu/projects/651721251/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Some of my Favorites
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/90731782/159119741-ecbe1974-b599-41d8-9fb9-0ef4c8f5309a.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonthanMckanna/ImNotAFurry247/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+[Maze Adventure (Easy)](https://scratch.mit.edu/projects/639712278/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+by [netd](https://scratch.mit.edu/users/netd)
+### __________________
+![image](https://user-images.githubusercontent.com/90731782/159119835-949e9521-c0d8-4aac-9ed1-ae568c7eec25.png)
+
+
+[free intro φ(*￣0￣)](https://scratch.mit.edu/projects/662156275/)
+
+by [-clixz](https://scratch.mit.edu/users/-clixz)
+### __________________
+![image](https://user-images.githubusercontent.com/90731782/159119943-68c94636-e6a6-4fb5-8443-5624c25cb70a.png)
+
+
+[Trying to Get Curated](https://scratch.mit.edu/projects/559564521/)
+
+by [SavageDLX](https://scratch.mit.edu/users/SavageDLX/)
+*</span>
