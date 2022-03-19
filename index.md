@@ -51,4 +51,3 @@ by [-clixz](https://scratch.mit.edu/users/-clixz)
 [Trying to Get Curated](https://scratch.mit.edu/projects/559564521/)
 
 by [SavageDLX](https://scratch.mit.edu/users/SavageDLX/)
-*</span>
